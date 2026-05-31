@@ -1,7 +1,6 @@
 import app from '../index.js'
 
-const descriptionGame = () =>
-  'Answer "yes" if the number is even, otherwise answer "no".'
+const descriptionGame = () => 'Answer "yes" if the number is even, otherwise answer "no".'
 
 const getQuestion = () => Math.floor(Math.random() * 20)
 
