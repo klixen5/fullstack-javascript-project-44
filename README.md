@@ -7,3 +7,6 @@
 
 1. brain-even 
 [![asciicast](https://asciinema.org/a/mXz4EF02Jy6JnmBV.svg)](https://asciinema.org/a/mXz4EF02Jy6JnmBV)
+
+1. brain-calc
+[![asciicast](https://asciinema.org/a/phC2jMNd1iad5veQ.svg)](https://asciinema.org/a/phC2jMNd1iad5veQ)
